@@ -1,0 +1,23 @@
+Progress Logs
+-------------
+Number of Sensors: 1
+Number of Read Keys: 1
+Start Timestamp: 2023-06-10
+End Timestamp: 2023-07-10
+Average: 10
+Fields: rssi,uptime,pa_latency,memory,humidity,humidity_a,humidity_b,temperature,temperature_a,temperature_b,pressure_a,pressure,pressure_b,voc,voc_a,voc_b,analog_input,pm1.0_atm,pm1.0_atm_a,pm1.0_atm_b,pm1.0_cf_1,pm1.0_cf_1_b,pm1.0_cf_1_a,pm2.5_alt_a,pm2.5_alt,pm2.5_alt_b,pm2.5_atm,pm2.5_atm_a,pm2.5_atm_b,pm2.5_cf_1,pm2.5_cf_1_a,pm2.5_cf_1_b,pm10.0_atm_a,pm10.0_atm,pm10.0_atm_b,pm10.0_cf_1,pm10.0_cf_1_a,pm10.0_cf_1_b,scattering_coefficient,scattering_coefficient_a,scattering_coefficient_b,deciviews,deciviews_a,deciviews_b,visual_range,visual_range_a,visual_range_b,0.3_um_count,0.3_um_count_a,0.3_um_count_b,0.5_um_count,0.5_um_count_a,0.5_um_count_b,1.0_um_count,1.0_um_count_a,1.0_um_count_b,2.5_um_count,2.5_um_count_a,2.5_um_count_b,5.0_um_count,5.0_um_count_a,5.0_um_count_b,10.0_um_count,10.0_um_count_a,10.0_um_count_b
+-------------
+Starting requests for sensor 170853.
+Making request 1.
+Making request 2.
+Making request 3.
+Making request 4.
+Making request 5.
+Making request 6.
+Making request 7.
+Making request 8.
+Making request 9.
+Making request 10.
+Data download completed for sensor 170853.
+
+Download request has been completed.
